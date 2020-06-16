@@ -1,2 +1,2 @@
-Detta är ett masterlocal document som enbart är till för att testa Intellij med Git
+imp message 01
 
