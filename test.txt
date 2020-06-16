@@ -1,2 +1,2 @@
-Detta är ett AAA document som enbart är till för att AAA testa Intellij med Git
+Detta är ett mastercopy document som enbart är till för att testa Intellij med Git
 
