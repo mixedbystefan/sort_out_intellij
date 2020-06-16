@@ -1,1 +1,1 @@
-Detta är ett document som enbart är till för att testa Intellij med Git
+Detta är ett XXX document som enbart är till för att testa Intellij XXX med Git XXX
