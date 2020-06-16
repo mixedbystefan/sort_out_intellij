@@ -1,0 +1,1 @@
+Detta är ett document som enbart är till för att testa Intellij med Git
