@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Detta är ett XXX document som enbart är till för att testa Intellij XXX med Git XXX
-=======
 Detta är ett AAA document som enbart är till för att AAA testa Intellij med Git
->>>>>>> Added AAA only local
+
